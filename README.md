@@ -1,5 +1,5 @@
 # kibana-plugins-installer
-A short scripte for automatically install plugins for kibana 5   
+A short script for automatically install plugins for kibana 5   
 ##Quick start
 This script allows to automatically install plugins for kibana. The architecture of kibana 5 is as follows:
 
