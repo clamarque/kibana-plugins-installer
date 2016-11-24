@@ -35,7 +35,7 @@ then run the command:
 
 `$ node kibana-plugins-installer.js`   
 
-**NOTE: ** Ideally, you must create a recurring task (crontab) to run this script every 1 minute for example.
+**NOTE:** Ideally, you must create a recurring task (crontab) to run this script every 1 minute for example.
 
 ##How to use
 
