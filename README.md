@@ -39,7 +39,7 @@ then run the command:
 
 ##How to use
 
-It is enough simply to deposit the archive which contains the plugin with as extension: .tmp.zip in the folder **plugins**   
+It is enough simply to deposit the archive which contains the plugin with as extension: ***.tmp.zip*** in the folder **plugins**   
 The script go copy the archive with the current date in the folder **plugins_backup**. Then, this one, will rename the archive in .zip, remove the plugin (if existing) and install it.   
 You can find the log of plugin in the folder **logs**
 
