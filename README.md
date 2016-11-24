@@ -43,6 +43,6 @@ It is enough simply to deposit the archive which contains the plugin with as ext
 The script go copy the archive with the current date in the folder **plugins_backup**. Then, this one, will rename the archive in .zip, remove the plugin (if existing) and install it.   
 You can find the log of plugin in the folder **logs**
 
-**NOTE:** Don't forget to change the path in the script !
+**NOTE:** Don't forget to change the path in the script and adapt the installation and removal commands (**cmdRemove**, **cmdInstall**) according to your environment !
 
 
