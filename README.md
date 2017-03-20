@@ -1,6 +1,6 @@
 # kibana-plugins-installer
 A short script for automatically install plugins for kibana 5   
-##Quick start
+## Quick start
 This script allows to automatically install plugins for kibana. The architecture of kibana 5 is as follows:
 
 /kibana-5.0.0-YOUR-OS/   
@@ -37,7 +37,7 @@ then run the command:
 
 **NOTE:** Ideally, you must create a recurring task (crontab) to run this script every 1 minute for example.
 
-##How to use
+## How to use
 
 It is enough simply to deposit the archive which contains the plugin with as extension: ***.tmp.zip*** in the folder **plugins**   
 The script go copy the archive with the current date in the folder **plugins_backup**. Then, this one, will rename the archive in .zip, remove the plugin (if existing) and install it.   
